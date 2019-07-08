@@ -1,0 +1,4 @@
+Python paths:
+
+C:\Users\agupta\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\agupta\AppData\Local\Programs\Python\Python37-32\;C:\Users\agupta\AppData\Local\Programs\Python\Launcher\;C:\Users\agupta\AppData\Roaming\Python\Python37\Scripts\;
+
